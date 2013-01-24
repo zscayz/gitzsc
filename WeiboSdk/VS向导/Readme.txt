@@ -1,0 +1,1 @@
+Express版本的vs不可时使用向导。直接引用 "\WeiboSdk\dll"下的所有dll就好。
